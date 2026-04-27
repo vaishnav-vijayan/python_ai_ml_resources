@@ -1,0 +1,43 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Sample/Demo Files (created during notebook execution)
+math_utils.py
+preprocessing.py
+stats_utils.py
+company.json
+employees.csv
+departments.csv
+students.txt
+sample.txt
+tricky.csv
+pathlib_demo.txt
+requirements.txt
+
+# Sample Packages/Directories
+ml_tools/
+example_project/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*_checkpoint.ipynb
